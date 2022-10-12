@@ -3,13 +3,13 @@
 #plak hier de haiku functions onder elkaar
 ## Haiku function template
 
-def HaikuX():
+def Haiku1():
     print("haiku by:","Sean")
     print("Bleak break of the day")
     print("A smallest, neat pebble calls")          
     print("in spite of the stone")
 
-def Haiku1():
+def Haiku2():
     print("haiku by:","-hasan-")
     print("Arid abandon")
     print("A pale, thundery ghost looks")
